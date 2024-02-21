@@ -18,10 +18,10 @@ function SkillSection() {
             <SkillIcon icon={<FaCss3 />} name={'CSS'} className={'text-blue-500'} />
             <SkillIcon icon={<SiTailwindcss />} name={'Tailwind'} className={'text-teal-500'} />
             <SkillIcon icon={<SiJavascript />} name={'Javascript'} className={'text-yellow-500'} />
+            <SkillIcon icon={<SiMongodb />} name={'MongoDB'} className={' text-green-500'} />
+            <SkillIcon icon={<SiExpress />} name={'Express'} className=' text-black' />
             <SkillIcon icon={<FaReact />} name={'React'} className={'text-sky-400'} />
             <SkillIcon icon={<FaNode />} name={'Node'} className='text-green-500' />
-            <SkillIcon icon={<SiExpress />} name={'Express'} className=' text-black' />
-            <SkillIcon icon={<SiMongodb />} name={'MongoDB'} className={' text-green-500'} />
             <SkillIcon icon={<SiAppwrite />} name={'Appwrite'} className=' text-pink-600' />
             <SkillIcon icon={<FaGitAlt />} name={'Git'} className=' text-red-500' />
             <SkillIcon icon={<SiPostman />} name={'Postman'} className=' text-orange-500' />
