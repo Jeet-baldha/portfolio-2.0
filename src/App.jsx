@@ -1,6 +1,4 @@
 import SkillSection from "./SkillSection"
-import GithubBtn from "./Buttons/GithubBtn"
-import LinkdinBtn from "./Buttons/LinkdinBtn"
 import Carousel from "./components/Carousel/Carousel"
 import EducationSection from "./components/Carousel/EducationSection"
 import DownloadBtn from "./components/DownloadBtn"
