@@ -2,9 +2,9 @@ import React from 'react'
 
 function DownloadBtn() {
     return (
-        <button className="cursor-pointer group relative flex gap-1.5 px-4 py-2 bg-indigo-700 bg-opacity-80 text-[#f1f1f1] rounded-3xl hover:bg-opacity-70 transition font-semibold shadow-md">
+        <button className="cursor-pointer group relative flex gap-1.5 px-4 py-2 bg-blue-500 bg-opacity-80 text-[#f1f1f1] rounded-3xl hover:bg-opacity-70 transition font-semibold shadow-md">
             <svg
-                xmlns="http://www.w3.org/2000/svg"
+                xmlns="https://drive.google.com/file/d/1fLP8X-NqdYFj5I2C_Gq-lenQ4mAlHMAj/view?usp=drive_link"
                 fill="none"
                 viewBox="0 0 24 24"
                 height="24px"
